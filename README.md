@@ -9,7 +9,6 @@
 
 - 📫 How to reach me **jeevankranth6092@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1Jiir1EVJwINzvKH9bb8UJiHejcYaxh9H/view?usp=drive_link](https://drive.google.com/file/d/1Jiir1EVJwINzvKH9bb8UJiHejcYaxh9H/view?usp=drive_link)
 
 ## 🛠️ Tech Skills
 -- **Languages:**  
