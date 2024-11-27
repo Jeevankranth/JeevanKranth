@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jeevan Kranth</h1>
 <h3 align="center">A passionate to become a Data Analyst / Data Scientist</h3>
-A skilled in Data Analyst and Proficiency in python,Mysql,PowerBi,Excel,Statistics,Machine Learning and EDA.Completed a comprehensive  1000+ hour Data Analyst course at MASAI SCHOOL with hands-on-experience in individual and group Projects.
-Seeking an oppertunity to apply the skills and Knowledge while continueing to learn and grow in this dynamic field.
 <image align="right" alt="coding" width="300" src=https://static.wixstatic.com/media/3eee0b_8b6780c6bd8245ecafdbe55d8db7e2df~mv2.gif
 
 - 🌱 I’m currently learning **machine learning and deep learning**
