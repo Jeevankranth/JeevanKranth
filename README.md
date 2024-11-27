@@ -47,4 +47,4 @@
 
 
 <h2 align="center"> :handshake:Thank You for Visiting!:handshake:</h2>
-<h2 align="center"> :**🌟 I truly appreciate your time and interest. Let's collaborate and achieve great things together! 🌟**:</h2>
+<h2 align="center"> **🌟 I truly appreciate your time and interest. Let's collaborate and achieve great things together! 🌟**</h2>
