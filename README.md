@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jeevan Kranth</h1>
 <h3 align="center">A passionate to become a Data Analyst / Data Scientist</h3>
+🗺️Data Analyst proficient in Python🐍, SQL, Power BI🪶, and Machine Learning🤖. Skilled in data cleaning,🗺 analysis, visualization🌿, and predictive modeling💡. Collaborates with teams to transform data🪻 into actionable insights🍂 for strategic decision-making❄️ and operational efficiency🥀
 <image align="right" alt="coding" width="300" src=https://static.wixstatic.com/media/3eee0b_8b6780c6bd8245ecafdbe55d8db7e2df~mv2.gif
 
 - 🌱 I’m currently learning **machine learning and deep learning**
