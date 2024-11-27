@@ -1,3 +1,5 @@
+![Profile Views](https://komarev.com/ghpvc/?username=Jeevankranth&color=blue)
+
 <h1 align="center">Hi 👋, I'm Jeevan Kranth</h1>
 <h3 align="center">A passionate to become a Data Analyst / Data Scientist</h3>
 🌟 Data Analyst and Data Scientist | Expert in Python 🐍, SQL, Power BI 📊, and Machine Learning 🤖. Proficient in data cleaning, exploratory analysis, visualization 🌟, and predictive modeling 💡. Passionate about leveraging data to uncover insights, drive strategic decision-making, and optimize operations for measurable impact. 🚀
