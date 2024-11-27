@@ -21,6 +21,9 @@
   ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white) 
   ![Matplotlib](https://img.shields.io/badge/-Matplotlib-E34F26?style=flat&logo=plotly&logoColor=white) 
   ![Seaborn](https://img.shields.io/badge/-Seaborn-1572B6?style=flat&logo=plotly&logoColor=white)
+  ![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white) 
+  ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=TensorFlow&logoColor=white) 
+  ![Keras](https://img.shields.io/badge/-Keras-D00000?style=flat&logo=Keras&logoColor=white)
 
 - **Data Wrangling & ETL:**  
   ![Excel](https://img.shields.io/badge/-Excel-217346?style=flat&logo=microsoft-excel&logoColor=white) 
