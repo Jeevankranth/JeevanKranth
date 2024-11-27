@@ -11,6 +11,12 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1Jiir1EVJwINzvKH9bb8UJiHejcYaxh9H/view?usp=drive_link](https://drive.google.com/file/d/1Jiir1EVJwINzvKH9bb8UJiHejcYaxh9H/view?usp=drive_link)
 
+<h3 align="left">🛠️ Tech Skills:</h3>h3>
+Languages: Python, MySQL, Machine learning, deep learning
+Data Analysis and Visualization: Pandas, Matplotlib ,Seaborn
+Data Wrangling & ETL: Excel , PowerBI
+Database: MySQL
+Tools: Jupyter ,VSCode, colab
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/jeevan-kranth" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jeevan-kranth" height="30" width="40" /></a>
