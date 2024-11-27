@@ -11,12 +11,19 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1Jiir1EVJwINzvKH9bb8UJiHejcYaxh9H/view?usp=drive_link](https://drive.google.com/file/d/1Jiir1EVJwINzvKH9bb8UJiHejcYaxh9H/view?usp=drive_link)
 
-<h3 align="left">🛠️ Tech Skills:</h3>h3>
-Languages: Python, MySQL, Machine learning, deep learning
-Data Analysis and Visualization: Pandas, Matplotlib ,Seaborn
-Data Wrangling & ETL: Excel , PowerBI
-Database: MySQL
-Tools: Jupyter ,VSCode, colab
+## 🛠️ Tech Skills
+- **Languages:**
+  ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![MySQL](https://img.shields.io/badge/-SQL-3776AB?style=flat&logo=SQL&logoColor=white)
+- **Data Analysis and Visualization:**
+  ![Pandas](https://img.shields.io/badge/-Pandas-61DAFB?style=flat&logo=Pandas&logoColor=black) ![Matplotlib](https://img.shields.io/badge/-Matplotlib-E34F26?style=flat&logo=Matplotlib&logoColor=white) ![Seaborn](https://img.shields.io/badge/-Seaborn-1572B6?style=flat&logo=Seaborn&logoColor=white)
+- **Data Wrangling & ETL:**
+  ![Excel](https://img.shields.io/badge/-Excel-339933?style=flat&logo=Excel&logoColor=white) ![PowerBI](https://img.shields.io/badge/-PowerBI-339933?style=flat&logo=PowerBI&logoColor=white)
+- **Database:**
+  ![MySQL](https://img.shields.io/badge/-MySQL-47A248?style=flat&logo=MySQL&logoColor=white)
+- **Tools:**
+  ![Jupyter](https://img.shields.io/badge/-Jupyter-F05032?style=flat&logo=Jupyter&logoColor=white) ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/jeevan-kranth" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jeevan-kranth" height="30" width="40" /></a>
