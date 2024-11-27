@@ -12,16 +12,29 @@
 - 📄 Know about my experiences [https://drive.google.com/file/d/1Jiir1EVJwINzvKH9bb8UJiHejcYaxh9H/view?usp=drive_link](https://drive.google.com/file/d/1Jiir1EVJwINzvKH9bb8UJiHejcYaxh9H/view?usp=drive_link)
 
 ## 🛠️ Tech Skills
-- **Languages:**
-  ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![MySQL](https://img.shields.io/badge/-SQL-3776AB?style=flat&logo=SQL&logoColor=white)
-- **Data Analysis and Visualization:**
-  ![Pandas](https://img.shields.io/badge/-Pandas-61DAFB?style=flat&logo=Pandas&logoColor=black) ![Matplotlib](https://img.shields.io/badge/-Matplotlib-E34F26?style=flat&logo=Matplotlib&logoColor=white) ![Seaborn](https://img.shields.io/badge/-Seaborn-1572B6?style=flat&logo=Seaborn&logoColor=white)
-- **Data Wrangling & ETL:**
-  ![Excel](https://img.shields.io/badge/-Excel-339933?style=flat&logo=Excel&logoColor=white) ![PowerBI](https://img.shields.io/badge/-PowerBI-339933?style=flat&logo=PowerBI&logoColor=white)
-- **Database:**
-  ![MySQL](https://img.shields.io/badge/-MySQL-47A248?style=flat&logo=MySQL&logoColor=white)
-- **Tools:**
-  ![Jupyter](https://img.shields.io/badge/-Jupyter-F05032?style=flat&logo=Jupyter&logoColor=white) ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+-- **Languages:**  
+  ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) 
+  ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white) 
+  ![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-102230?style=flat&logo=scikit-learn&logoColor=white) 
+  ![Deep Learning](https://img.shields.io/badge/-Deep%20Learning-FF6F00?style=flat&logo=pytorch&logoColor=white)
+
+- **Data Analysis and Visualization:**  
+  ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white) 
+  ![Matplotlib](https://img.shields.io/badge/-Matplotlib-E34F26?style=flat&logo=plotly&logoColor=white) 
+  ![Seaborn](https://img.shields.io/badge/-Seaborn-1572B6?style=flat&logo=plotly&logoColor=white)
+
+- **Data Wrangling & ETL:**  
+  ![Excel](https://img.shields.io/badge/-Excel-217346?style=flat&logo=microsoft-excel&logoColor=white) 
+  ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat&logo=power-bi&logoColor=black)
+
+- **Database:**  
+  ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+
+- **Tools:**  
+  ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=jupyter&logoColor=white) 
+  ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white) 
+  ![Colab](https://img.shields.io/badge/-Google%20Colab-F9AB00?style=flat&logo=google-colab&logoColor=black)
+
 
 
 <h3 align="left">Connect with me:</h3>
